@@ -1,7 +1,5 @@
 # Animal Image Classification with LDP Pipeline
 
-(WIP)
-
 This repository provides an end-to-end workflow for setting up a Lakeflow Declarative Pipeline (LDP) to perform batch inference on animal images stored in a Databricks Volume. The pipeline leverages distributed inference to automatically classify images using a deep learning model.
 
 ## Dataset
